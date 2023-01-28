@@ -7,7 +7,7 @@ header{
     color: #e3e5e8;
     font-style: 48px;
     font-weight: 900px;
-    margin-bottom: 5px;
+    
 }
 
 nav {
@@ -94,7 +94,8 @@ a:active { text-decoration: none; }
     text-decoration: none;
 }
 
-#information h1 {
+#information,
+ h1 {
     color: #1f2937;
     font-size: 36px; 
     font-weight: 900px;
@@ -193,6 +194,6 @@ p  {
     font-weight: 900px;
     display: flex;
     justify-content: center;
-    margin-bottom: 5px;
-    padding: 20px 0;  
+    margi: 0px;
+    padding: 40px 0;  
 }
